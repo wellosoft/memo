@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="wrapper">
+
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+      <p class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+          {{ page.date | date: date_format }}
+        </time>
+      </p>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+      {% if page.hidden %}
+      <!--pre style="color:brown"><i>This article may unfinished as it's not in the archives.</i></pre-->
+      {% endif %}
+      {{ content }}
+    </div>
+
+    {% if page.ig %}
+    <blockquote class="instagram-media" data-instgrm-permalink="{{ page.ig | append: '?utm_source=ig_embed&amp;utm_medium=loading' }}"
+      data-instgrm-version="12">
+    </blockquote>
+    <script async src="//www.instagram.com/embed.js"></script>
+    {% endif %}
+  </article>
+</div>
