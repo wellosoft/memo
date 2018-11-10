@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Tentang Wildan Mubarok
-permalink: /id/about/
+permalink: /about/
 categories: ['id']
 ---
 
-Ini blog saya. Namun saya biasa ngeblog ke [channel bahasa inggris](/en).
+Ini memo personal saya. WIP.
 
 Untuk channel indonesia ini, kugunakan untuk menyimpan (mirror) dari curhatan Facebook.
