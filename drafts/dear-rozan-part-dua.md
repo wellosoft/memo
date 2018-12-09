@@ -2,6 +2,8 @@
 title: Dear Rozan, Part 2
 ---
 
+Dear Rozan,
+
 Genap sudah umurmu yang kedelapan belas. Hampir genap pula semester pertama mu ini didalam dunia teknik ini -- kamu terlihat beda sekali dibandingkan saat sekitar 40 hari yang lalu.
 
 Sebenarnya aku masih tidak tahu apakah yang aku asumsikan ini benar -- aku hanya menyimpulkan semuanya dari luar -- Kamu terlihat seperti sudah menjalani semua tugas dan aktivitas mu sendiri dengan baik, tanpa ada kebimbangan, tanpa harus meminta bantuanku lagi. Meskipun terasa aneh, tak terbiasa dengan perubahanmu itu, namun aku tetap akan mengucapkan:
