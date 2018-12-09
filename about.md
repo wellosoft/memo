@@ -9,7 +9,7 @@ Namaku adalah Wildan Mubarok. Dan aku adalah anak introvert.
 
 Channel ini kubuat sejak aku masuk di dunia perkuliahan di Universitas Trunojoyo Madura jurusan Teknik Informatika, Agustus 2018.
 
-Website ini adalah memo personal saya. Ku rangkai semua katanya satu-satu karena aku suka menulis kata-kata meski ditengah kesibukan perkuliahan yang padat.
+Website ini adalah memo personal saya. Ku rangkai semua katanya satu-satu karena anak introvert suka menulis kata-kata meski ditengah kesibukan perkuliahan yang padat.
 
 Sebelum website ini, channel tulisanku berada dalam [Subdomain blog](https://blog.wellosoft.net/id/), [Wordpress](https://willandgottaloveideas.wordpress.com/), dan [Facebook](https://blog.wellosoft.net/id/arsip-facebook.html).
 
