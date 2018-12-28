@@ -320,3 +320,11 @@ h6:hover .header-link {
 .UsernameText {
   max-width: default !important;
 }
+
+$head-decor: 20px;
+
+h1::before {
+  content: '';
+  width: $head-decor * 6;
+  border: bottom 1px solid black;
+}
