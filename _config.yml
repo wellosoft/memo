@@ -31,8 +31,6 @@ markdown: kramdown
 google_analytics: "UA-109180894-1"
 disqus:
   shortname: willnode
-compress_html:
-  comments: all
 exclude:
   - CNAME
   - Gemfil*
@@ -63,3 +61,5 @@ defaults:
       path: "en"
     values:
       lang: "en"
+emptyObj: {}
+emptyArr: []
