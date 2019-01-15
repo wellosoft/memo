@@ -23,7 +23,7 @@ Dan tidak seperti zaman sekolah dulu, Entah mengapa aku merasa kali ini berbeda 
 
 > “We suffer more often in imagination than in reality” — SENECCA
 
-Mengurusi 2 variabel -- mana yang penting dan mana yang mendesak itu memang bikin sesak -- maksudku, lihatlah. Sepanjang liburan ini aku berpetualang solo, mulai dari bangkalan, lalu pamekasan, sumenep, dan pulang transit Mojokerto, lalu jombang, gresik. Dua minggu kemudian balik lagi ke sidoarjo, lalu ke lamongan, lalu banting stir ke madura, sebelum akhirnya balik lagi ke malang, Probolinggo, dan balik lagi ke madura. Belum lagi rencanaku tuk balik jombang dan mampir lagi ke malang sebelum masuk kuliah lagi ke madura. Haduh. Pusing bukan? Wkw.
+Mengurusi 2 variabel -- mana yang penting dan mana yang mendesak itu memang bikin sesak -- maksudku, lihatlah. Sepanjang liburan ini aku berpetualang solo, mulai dari Bangkalan, lalu Pamekasan, Sumenep, dan pulang transit Mojokerto, lalu Jombang, Gresik. Jombang. Dua minggu kemudian balik lagi ke Sidoarjo, lalu ke Lamongan, lalu banting stir ke Madura, sebelum akhirnya balik lagi ke Malang, Banyuwangi, dan balik lagi ke Madura. Belum lagi rencanaku tuk balik Jombang dan mampir lagi ke Malang sebelum masuk kuliah lagi ke Madura. Haduh. Pusing bukan? Wkw.
 
 Dan aku melakukan hal-hal itu tanpa alasan. Jangan kira hanya cuman liburan ya. Meski pakai motor sendiri, itu tetap menghabiskan dana banyak. Lagipula ini terlalu ekstrim bagi anak 18 tahun, untuk merantau hingga ratusan kilo jauhnya (btw sepedaku sudah ganti oli 2 kali (setiap 1000 kilo) hanya dalam satu semester). Aku begitu karena aku menghargai relasi yang aku buat. Dan sepatutnya, itu jauh lebih mahal. Lagipula, ini sejalan dengan prinsip gilaku -- Bagaimana aku bisa menaklukkan dunia kalau pulau Jawa saja tidak bisa?
 
@@ -53,6 +53,7 @@ Hehe. Meski postingan ini terkesan seram. Tetap pasti ada hikmah yang lebih inda
 
 + Cobalah untuk membuka banyak kesempatan secara bersamaan. Takut terlalu padat? Itulah gregetnya hidup. Kau tak akan bosan dengan tantangan yang ada.
 + Jika kesempatan itu tidak muncul. Buatlah kesempatanmu sendiri. Jangan takut apalagi bimbang memulai hal baru.
++ Bacalah buku. Serius. 
 
 Terima kasih kepada semua rekan dan sahabat untuk semester satu ini. Kalian memiliki keunikan masing-masing. Tanpa kalian tak mungkin wawasanku lebih luas daripada yang dulu-dulu...
 
