@@ -1,0 +1,180 @@
+@mixin triangle($direction, $color, $size) {
+	@if $direction == left {
+	  border-bottom: $size solid transparent;
+	  border-right: $size solid $color;
+	  border-top: $size solid transparent;
+	}
+	@else if $direction == right {
+	  border-bottom: $size solid transparent;
+	  border-left: $size solid $color;
+	  border-top: $size solid transparent;
+	}
+	@else if $direction == up {
+	  border-bottom: $size solid $color;
+	  border-left: $size solid transparent;
+	  border-right: $size solid transparent;
+	}
+	@else if $direction == down {
+	  border-right: $size solid transparent;
+	  border-left: $size solid transparent;
+	  border-top: $size solid $color;
+	}
+
+	height: 0;
+	width: 0;
+  }
+
+$footnote-bg: #fff;
+$footnote-text: #444;
+
+$footnote-button: inherit;
+$footnote-font-size: 0.9em;
+$footnote-max-width: 500px;
+
+.littlefoot-container {
+position: relative;
+display: inline-block;
+}
+
+.littlefoot-button {
+border: none;
+border-radius: 2px;
+padding: 0.1em;
+background: gainsboro;
+margin: 0;
+outline: none;
+cursor: pointer;
+font-size: .75em;
+vertical-align: middle;
+color: $footnote-button;
+transition: {
+  property: opacity, color;
+  duration: .25s;
+  timing-function: ease-out;
+}
+opacity: .5;
+&:hover, .is-open & {
+  opacity: .7;
+}
+}
+
+.littlefoot-graphic {
+width: 2em;
+}
+
+.littlefoot-graphic-path {
+fill: currentColor;
+}
+
+.littlefoot-popover {
+position: absolute;
+z-index: 10;
+opacity: 0;
+transform: scale(.8,.8);
+transition: {
+  property: opacity, transform;
+  duration: .25s;
+  timing-function: ease-in-out;
+}
+
+.open-down & {
+  top: 1.6em;
+}
+.open-up & {
+  bottom: 1.6em;
+}
+
+&.is-visible {
+  opacity: 1;
+  transform: scale(1,1);
+}
+
+&.is-hidden {
+  display: none;
+}
+
+}
+
+.littlefoot-popover-triangle {
+position: absolute;
+top: -.7em;
+height: .7em;
+width: 2.2em;
+overflow: hidden;
+&:after, &:before {
+  position: absolute;
+  left: .25em;
+  display: block;
+  width: 1em;
+  height: 1em;
+  transform: rotate(45deg);
+}
+
+&:after {
+  z-index: -1;
+  background: transparent;
+  box-shadow: rgba(#000, .2) 1px 1px 6px;
+}
+
+&:before {
+  z-index: 1;
+  background: $footnote-bg;
+}
+
+.is-open &:before, .is-open &:after {
+  content: "";
+}
+
+.open-down &:before, .open-down &:after {
+  bottom: -.5em;
+}
+
+.open-up &:before, .open-up &:after {
+  top: -.5em;
+}
+}
+
+.littlefoot-footnote {
+font-size: $footnote-font-size;
+color: $footnote-text;
+position: absolute;
+left: -.5em;
+box-shadow: rgba(#000, .2) 0 3px 8px;
+border-radius: .5em;
+
+.open-down & {
+  top: 0;
+}
+.open-up & {
+  bottom: 0;
+}
+}
+
+.littlefoot-footnote-wrapper {
+max-height: 250px;
+overflow: auto;
+background: $footnote-bg;
+border-radius: .5em;
+}
+.littlefoot-footnote-content {
+width: 40em;
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+line-height: 1.45em;
+padding: 0 1.4em;
+p {
+  margin: 1em 0;
+}
+box-sizing: border-box;
+}
+
+.littlefoot-test {
+@extend .littlefoot-footnote-content;
+max-width: $footnote-max-width;
+width: auto;
+display: inline-block;
+}
+
+.littlefoot-test-wrapper {
+display: inline-block;
+font-size: $footnote-font-size;
+}

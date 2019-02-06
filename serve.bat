@@ -1,2 +1,2 @@
 @echo off
-bundle exec jekyll serve
+jekyll serve
