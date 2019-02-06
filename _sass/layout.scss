@@ -112,10 +112,15 @@
   }
 }
 
+main {
+  background: linear-gradient(white, $grey-color-light);
+}
+
 /**
  * Page content
  */
 .page-content {
+  background: white;
   padding-top: $spacing-unit;
   padding-bottom: $spacing-unit;
 }
@@ -126,6 +131,7 @@
 
 .post-list {
   margin-left: 0;
+  margin-bottom: 0;
   list-style: none;
   display: flex;
   flex-wrap: wrap;
