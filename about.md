@@ -13,4 +13,6 @@ Website ini adalah memo personal saya. Ku rangkai semua katanya satu-satu karena
 
 Sebelum website ini, channel tulisanku berada dalam [Subdomain blog](https://blog.wellosoft.net/id/), [Wordpress](https://willandgottaloveideas.wordpress.com/), dan [Facebook](https://blog.wellosoft.net/id/arsip-facebook.html).
 
-Jika kamu ingin bertanya, silahkan saja melalui [Instagram](https://instagram.com/willn0de) atau [Email](mailto:willnode@wellosoft.net).
+Ingat bahwa semua karangan disini adalah dari pandangan pribadiku semata. Anda berhak untuk mempunyai pandangan sendiri.
+
+Jika kamu ingin bertanya, silahkan saja melalui [Instagram](https://instagram.com/wiiin0de) atau [Email](mailto:willnode@wellosoft.net).
