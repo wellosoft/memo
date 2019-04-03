@@ -1,5 +1,6 @@
 ---
 title: Alkisah Kelinci dan Kura-Kura
+ig: https://www.instagram.com/p/BvzExZ6H8WD/
 ---
 
 Alkisah ada seekor kelinci dan kura-kura. Suatu hari kura-kura tidak terima ketika diejek "lamban" oleh kelinci. Maka, dengan berani kura-kura mengajak duel lari dengan kancil. Kancil tertawa lebar, "mana mungkin kamu bisa menang?" ujarnya. Namun keputusan kura-kura telah bulat, sehingga kancil menerima tantangan tersebut.
