@@ -1,17 +1,17 @@
 ---
-title: Alkisah Kelinci dan Kura-Kura
+title: Alkisah Kancil dan Kura-Kura
 ig: https://www.instagram.com/p/BvzExZ6H8WD/
 ---
 
-Alkisah ada seekor kelinci dan kura-kura. Suatu hari kura-kura tidak terima ketika diejek "lamban" oleh kelinci. Maka, dengan berani kura-kura mengajak duel lari dengan kancil. Kancil tertawa lebar, "mana mungkin kamu bisa menang?" ujarnya. Namun keputusan kura-kura telah bulat, sehingga kancil menerima tantangan tersebut.
+Alkisah ada seekor kancil dan kura-kura. Suatu hari kura-kura tidak terima ketika diejek "lamban" oleh kancil. Maka, dengan berani kura-kura mengajak duel lari dengan kancil. Kancil tertawa lebar, "mana mungkin kamu bisa menang?" ujarnya. Namun keputusan kura-kura telah bulat, sehingga kancil menerima tantangan tersebut.
 
-Dihari esoknya, mereka berlomba. Lomba itu disaksikan oleh banyak penghuni hutan. Wasit meneriaki, tanda untuk memulai pertandingan. "Prit", dan mereka melaju. Kelinci berlari sangat cepat menjauhi kura-kura yang lambat. Saat kelinci sudah sangat jauh dari kura2, dia bersantai sejenak di pohon rindang "ah, lagipula si kura2 masih sangat lama", namun malang, dia tertidur. Dia baru bangun saat si kura-kura sudah mencapai garis finish. Bahagianya kura-kura, kancil hanya bisa menyesali perbuatannya.
+Dihari esoknya, mereka berlomba. Lomba itu disaksikan oleh banyak penghuni hutan. Wasit meneriaki, tanda untuk memulai pertandingan. "Prit", dan mereka melaju. Kancil berlari sangat cepat menjauhi kura-kura yang lambat. Saat kancil sudah sangat jauh dari kura2, dia bersantai sejenak di pohon rindang "ah, lagipula si kura2 masih sangat lama", namun malang, dia tertidur. Dia baru bangun saat si kura-kura sudah mencapai garis finish. Bahagianya kura-kura, kancil hanya bisa menyesali perbuatannya.
 
 Apakah kisah ini sudah familiar dimata anda? Tentu iya, namun kisah ini masih berlanjut.....
 
-Kelinci tidak terima dengan kekalahannya, maka dia minta berduel lari lagi untuk hari esoknya. Kura-kura tentu was was, menyadari kemenangannya ialah karena ia beruntung, namun demi menjaga harga diri, dia menerima tantangannya.
+Kancil tidak terima dengan kekalahannya, maka dia minta berduel lari lagi untuk hari esoknya. Kura-kura tentu was was, menyadari kemenangannya ialah karena ia beruntung, namun demi menjaga harga diri, dia menerima tantangannya.
 
-Keesokan harinya, mereka berduel lagi. Kali ini kelinci tidak memberikan kesempatan sedikitpun pada kura-kura. Dia fokus untuk melesat cepat sampai di garis finis. Akhirnya? Tentu kelinci menang. Kura-kura bersedih, kembali menyadari kemampuan terbatas dia yang tak pernah bisa menandingi kecepatan lagi kancil.
+Keesokan harinya, mereka berduel lagi. Kali ini kancil tidak memberikan kesempatan sedikitpun pada kura-kura. Dia fokus untuk melesat cepat sampai di garis finis. Akhirnya? Tentu kancil menang. Kura-kura bersedih, kembali menyadari kemampuan terbatas dia yang tak pernah bisa menandingi kecepatan lagi kancil.
 
 Lalu apakah kura-kura menyerah? Tidak, dia berpikir keras bagaimana untuk mengalahkan kancil. Lantas lalu mengajak kancil bertanding lagi. "Tapi aku yang menentukan tempatnya besok", ujarnya. Kancil pun mengangguk setuju, toh itu tidak menutup kemungkinan dia yang tetap menang karena kecepatan larinya.
 
