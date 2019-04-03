@@ -11,7 +11,7 @@ Channel ini kubuat sejak aku masuk di dunia perkuliahan di Universitas Trunojoyo
 
 Website ini adalah memo personal saya. Ku rangkai semua katanya satu-satu karena anak introvert sepertiku suka menulis kata-kata meski ditengah kesibukan perkuliahan yang padat.
 
-Sebelum website ini, channel tulisanku berada dalam [Subdomain blog](https://blog.wellosoft.net/id/), [Wordpress](https://willandgottaloveideas.wordpress.com/), dan [Facebook](https://blog.wellosoft.net/id/arsip-facebook.html).
+Sebelum website ini, channel tulisanku berada dalam [Subdomain blog](https://blog.wellosoft.net/), [Wordpress](https://willandgottaloveideas.wordpress.com/), dan [Facebook](/drafts/arsip-facebook).
 
 Ingat bahwa semua karangan disini adalah dari pandangan pribadiku semata. Anda berhak untuk mempunyai pandangan sendiri.
 
