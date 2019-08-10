@@ -17,8 +17,6 @@ Nggak usah basa-basi, mari kita mulai.
 
 ## Apa itu Coding?
 
-> TLDR; Coding adalah permainan otak.
-
 7 tahun yang lalu, pemrograman menurutku adalah permainan otak yang sangat membantu kegabutanku dimasa puber, dan semakin lama aku semakin gila coding selevel orang-orang pada nge-bucin atau nge-wibu. Namun berbeda dengan nge-bucin, gila coding itu ternyata bermanfaat besar sekali, dan aku ingin kegabutan anda lebih berfaedah dengan gila coding (jika kamu mau sih).
 
 Aku tidak pernah tau mengapa orang sangat sulit membaca code. Padahal mereka tau kalo `1 + 1 = 2`. "Apa mereka berlagak bodoh atau pura-pura bodoh?" ingin ku menghujat meski nggak jadi. Tapi aku percaya mereka hanya pura-pura buta coding meski beberapa juga sampai nekat ngulang "Alpro", Gentleman sekali.
@@ -30,6 +28,9 @@ print("hello, bucin!")
 ```
 
 `"hello, bucin!"` adalah lego nya: Kata "hello, bucin!". Kata ini kamu apain? Ada perintah `print`, `print` adalah perintah yang paling dasar. Itu perintah pertama anda dimanapun anda belajar coding. Perintah ini tidak lebih tidak kurang hanya mengucapkan kata selanjutnya, `"hello, bucin!"`. Sekarang mungkin kau bertanya, mengapa namanya `print`? mengapa harus pakai kurung? mengapa pakai tanda petik? mengapa nggak cukup cuman `print hello bucin`?
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lego_Color_Bricks.jpg/640px-Lego_Color_Bricks.jpg)
+<p style="text-align:center"><i>Lego</i></p>
 
 Inilah fakta menyedihkannya. Komputer itu goblok. Serius. Lebih goblok dari anda, karena ciptaan tuhan itu sempurna. Komputer tidak akan paham perintah yang kamu ketik bahkan hanya satu tanda petik yang kurang. Jadi, bersikap lembutlah pada komputer, dan setiap kali mereka bilang `Syntax Error`, ingat bahwa komputer itu goblok, dan itu adalah tugasmu untuk membenarkan ejaan perintah anda anda ketik.
 
