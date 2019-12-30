@@ -1,5 +1,6 @@
 ---
 title: Aku Mulai V-logging (dan kenapa?)
+hidden: true
 ---
 
 2020 masih sebulan tapi aku mulai start duluan. Setelah beberapa resolusi dari beberapa tahun silam, kali ini misiku ialah keluar dari zona nyaman.
