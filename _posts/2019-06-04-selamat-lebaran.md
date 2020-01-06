@@ -31,4 +31,4 @@ Illaliqo' Ramadhan. Marhaban ya Iidil Fitri.
 
 Kepada semua pembaca setia saya, saya ucapkan terima kasih banyak dan selamat berlebaran. Mohon maaf lahir dan batin.
 
-Wildan Mubarok -- memo.wellosoft.net
+Wildan M -- memo.wellosoft.net

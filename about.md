@@ -7,7 +7,7 @@ categories: ['id']
 
 ![Foto didepan Graha Utama UTM](https://res.cloudinary.com/wellosoft/image/upload/c_scale,w_1280/v1564509091/home/MeBehindAlma.jpg)
 
-Namaku adalah Wildan Mubarok. Dan aku adalah anak introvert.
+Namaku adalah Wildan. Dan aku adalah anak introvert.
 
 Channel ini kubuat sejak aku masuk di dunia perkuliahan di Universitas Trunojoyo Madura jurusan Teknik Informatika, Agustus 2018.
 

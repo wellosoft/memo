@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: My Memo
 author:
-  name: Wildan Mubarok
+  name: Wildan M
   email: willnode@wellosoft.net
   uri: https://wellosoft.net
 baseurl: "" # the subpath of your site, e.g. /blog
