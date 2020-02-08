@@ -1,5 +1,6 @@
 ---
 title: Procedural vs. Artistik
+ig: https://www.instagram.com/p/B8SmCVyHivs/
 ---
 
 Selama.. Mungkin hampir 10 tahun aku melakukan semuanya secara procedural. Dan sekarang waktuku berubah...
