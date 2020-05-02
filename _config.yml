@@ -21,7 +21,7 @@ author:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://memo.wellosoft.net" # the base hostname & protocol for your site, e.g. http://example.com
 img: "//res.cloudinary.com/wellosoft/image/upload/blog/"
-permalink: /:categories/:title.html
+permalink: /:categories/:title
 excerpt:
   en: The place where I told stories and facts from my own hands-on experiences.
   id: Tempatnya bercerita dan berfakta dari tangan pengalaman saya sendiri.

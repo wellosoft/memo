@@ -9,12 +9,22 @@ categories: ['id']
 
 Namaku adalah Wildan. Dan aku adalah anak introvert.
 
-Channel ini kubuat sejak aku masuk di dunia perkuliahan di Universitas Trunojoyo Madura jurusan Teknik Informatika, Agustus 2018.
+Channel artikel ini kubuat sejak aku masuk di dunia perkuliahan di Universitas Trunojoyo Madura jurusan Teknik Informatika, Agustus 2018.
 
-Website ini adalah memo personal saya. Ku rangkai semua katanya satu-satu karena anak introvert sepertiku suka menulis kata-kata meski ditengah kesibukan perkuliahan yang padat.
 
 Sebelum website ini, channel tulisanku berada dalam [Subdomain blog](https://blog.wellosoft.net/), [Wordpress](https://willandgottaloveideas.wordpress.com/), dan [Facebook](/drafts/arsip-facebook).
 
-Ingat bahwa semua karangan disini adalah dari pandangan pribadiku semata. Anda berhak untuk mempunyai pandangan sendiri.
+Website ini adalah memo personal saya. By the way semua karangan disini adalah dari pandangan pribadiku semata.
 
-Jika kamu ingin bertanya, silahkan saja melalui [Instagram](https://instagram.com/wiiin0de) atau [Email](mailto:willnode@wellosoft.net).
+Jika ingin bertanya, silahkan saja melalui [Instagram](https://instagram.com/wiiin0de) atau [Telegram](https://t.me/WIIIN0DE).
+
+---
+
+Reminder untuk aku di masa depan:
+
++ Pilih topik yang membangun ide / motivasi / good habit.
++ Jangan pernah ngungkapin atau ngritik hal-hal negatif.
++ Jangan pernah mengangkat masalah yang gak ada solusinya.
++ Jangan mengumbar permasalahan yang butuh solusi yang panjang / ribet.
++ Jika ada opini, bisa dilengkapi dengan sumber atau opini orang lain
++ Jika ada kutipan / motivasi, bisa dilengkapi dengan pengalaman sendiri.
