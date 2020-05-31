@@ -13,19 +13,19 @@ Untuk aku yang masih mahasiswa, aku butuh laptop. Lagipula, juga suka kerja berp
 
 #### Berapa Spek Minimal yang Bagus untuk Budget X?
 
-Ini adalah pertanyaan yang sangat umum. Kalau memang budgetnya press banget, aku sarankan cari laptop yang upgradable, yang slot [RAM atau SSD nya tidak disolder][solder], serta prosesor yang generasinya tidak terlalu lama (laptop rilisan 2015 itu minimal, karena Windows 10 rilis disekitar tahun itu). Terakhir, kalau bisa, yang sudah berisi Windows 10 ([semua laptop dari ASUS sudah begitu][asuswin]).
+Ini adalah pertanyaan yang sangat umum. Kalau memang budgetnya press banget, aku sarankan cari laptop yang upgradable, yang slot [RAM atau SSD nya tidak disolder][solder], serta prosesor yang generasinya tidak terlalu lama (laptop rilisan 2015 keatas, karena Windows 10 rilis disekitar tahun itu). Terakhir, kalau bisa, yang sudah berisi Windows 10 ([semua laptop dari ASUS sudah begitu][asuswin]).
 
-Kenapa upgradable itu penting? Bolehlah mungkin sekarang kamu hanya punya budget yang press, tapi bagaimana kalau tahun depan pengen nambah spek lagi? Bagaimana kalau spek dari pabrik yang sudah kamu beli sudah tidak cepat lagi? Jadi belilah laptop yang upgradable,  yang punya slot RAM tambahan, atau punya DVD-ROM, atau lebih bagus lagi, punya slot M.2. Menurut pengamatanku sih, laptop yang upgradable untuk harga yang terjangkau biasanya ada di produk-produk laptop Jepang (HP, Dell, Toshiba, Fujitsu, dsb.)
+Kenapa upgradable itu penting? Bolehlah mungkin sekarang kamu hanya punya budget yang press, tapi bagaimana kalau tahun depan ingin menambah spek lagi? Bagaimana kalau spek dari pabrik yang sudah kamu beli sudah tidak cepat lagi? Jadi belilah laptop yang upgradable, yang punya slot RAM tambahan, atau punya DVD-ROM, atau lebih bagus lagi, punya slot M.2. Menurut pengamatanku, laptop yang upgradable untuk harga yang terjangkau biasanya ada di produk-produk laptop Jepang (HP, Dell, Toshiba, Fujitsu, dsb.)
 
-Untuk tahun 2020 ini, jika ingin beli laptop, usahakan cari yang [range 4 jutaan keatas][4juta]. Dengan budget segitu kebanyakan laptop sudah memiliki kapatitas RAM 4 GB dan HDD 1 TB, dan CPU yang cukup buat keperluan ringan.
+Untuk tahun 2020 ini, jika ingin beli laptop, usahakan cari yang [range 4 jutaan keatas][4juta]. Dengan budget tersebut kebanyakan laptop sudah memiliki kapatitas RAM 4 GB dan HDD 1 TB, dan CPU yang cukup buat keperluan ringan.
 
 Untuk rincian speknya, baca terus sampai selesai.
 
 #### Apakah Lebih Baik Upgrade Nanti atau Sekalian Beli Spek Besar?
 
-Tergantung dari budget. Misalkan, untuk menikmati Laptop dengan RAM 8 GB, setidaknya menyiapkan budget paling rendh 6 juta; padahal anda juga dapat membeli Laptop range 4 jutaan lalu beli stik RAM 8 GB sekitar 1 jutaan untuk di upgrade.
+Tergantung dari budget. Misalkan, untuk menikmati Laptop dengan RAM 8 GB, setidaknya menyiapkan budget paling rendah 6 juta; padahal anda juga dapat membeli Laptop range 4 jutaan lalu menambah stik RAM 4 GB seharga setengah juta (DDR4) untuk di upgrade.
 
-Namun, ingat bahwa tidak semua laptop bisa bekerja optimal jika diupgrade terlalu tinggi. Maksudku, apakah masih masuk akal jika mempunyai CPU yang speknya rendah namun kapasitas RAM-nya sangat tinggi? maka dari itu, jika kamu punya budget lebih, alangkah lebih baik cari untuk aman saja dengan mencari spek yang sekalian tinggi.
+Namun, ingat bahwa tidak semua laptop bisa bekerja optimal jika diupgrade terlalu tinggi. Maksudku, apakah masih masuk akal jika mempunyai CPU yang speknya rendah namun kapasitas RAM-nya sangat tinggi? maka dari itu, jika kamu punya budget lebih, alangkah lebih baik cari aman saja dengan mencari spek yang sekalian tinggi.
 
 > Ini juga berlaku buat beberapa spek laptop yang "aneh"; Misalnya, untuk beberapa model laptop yang mempunyai RAM 8 GB dengan harga 4 jutaan, apakah itu masuk akal? Menurutku tidak, karena seolah-olah seperti "spek tinggi yang dipaksa". Bisa saja itu harga basenya 3 jutaan hanya setelah itu diupgrade RAM-nya, dengan kata lain pasti ada komponen lain yang "disunat" jika dibandingkan dengan sesama laptop 4 jutaan, bisa saja dari prosesor atau kapasitas storage nya.
 
@@ -52,13 +52,13 @@ Ketiga, ada kerugian tersendiri apabila 2 RAM terpasang namun berbeda spesifikas
 
 Banyak, tapi yang paling aku sukai dari SSD adalah [performa dan ketahanannya][hddssd]. Berbeda dengan HDD, SSD tidak menggunakan [piringan][hddwiki] untuk menyimpan data, melainkan menggunakan [flash memory][flash] mirip seperti Flashdisk. Dan karena di SSD tidak memakai piringan, SSD mempunyai konsumsi daya yang rendah, tidak menghasilkan suara berisik dan tidak cepat panas dibandingkan HDD; lagipula HDD juga lebih rentan piringannya pecah atau rusak apabila terkena [medan magnet][magnet] atau guncangan yang cukup keras; problem seperti itu tidak ada dalam SSD.
 
-Namun tetap, HDD masih punya keunggulan tersendiri, misal untuk backup data, karena HDD lebih murah dan mempunyai kapasitas yang lebih tinggi. Kebanyakan HDD suatu saat akan gagal karena masalah dam sistem mekaniknya, namun SSD akan gagal apabila digunakan terlalu sering, standar penggunaan untuk [HDD berkisar 5 tahun sedangkan SSD 3 tahun][hddspan] untuk penggunaan normal.
+Namun tetap, HDD masih punya keunggulan tersendiri, misal untuk backup data, karena HDD lebih murah dan mempunyai kapasitas yang lebih tinggi. Kebanyakan HDD suatu saat akan gagal karena masalah dalam sistem mekaniknya, namun SSD akan gagal apabila digunakan terlalu sering, standar penggunaan untuk [HDD berkisar 5 tahun sedangkan SSD 3 tahun][hddspan] untuk penggunaan normal.
 
 #### Bukankah kalau upgrade SSD berarti mengangkat HDD lama?
 
 Tidak selalu. Buat laptop yang ada DVD-ROM nya, DVD-ROM itu bisa diangkat [diganti dengan Caddy][caddy] yang bisa dibuat menampung HDD lama. Dengan demikian, kamu bisa gunakan SSD tersebut untuk mengisi partisi Windows yang menggunakan HDD lama untuk menyimpan data. Untuk cara memasang SSD dan migrasi partisi Windows ke SSD, kamu bisa gugel banyak [tutorial di YouTube][upup].
 
-Untuk beberapa model laptop, biasanya yang tipis diharga 5 jutaan keatas, mempunyai slot M.2 (SATA). Slot ini bisa diisi dengan [SSD M.2][sm2slot] yang berbentuk chip panjang seperti RAM. SSD M.2 (SATA) cenderung lebih mahal daripada versi [regular 2.5"][sssdsata] karena bentuknya yang tipis. Buat kalian yang laptopnya punya slot M.2, sangat aku anjurkan untuk beli SSD varian M.2 dibandingkan varian SATA, kalo budgetnya tidak ada, bolehlah nabung-nabung sebentar.
+Untuk beberapa model laptop, biasanya yang tipis diharga 5 jutaan keatas, mempunyai slot M.2 (SATA). Slot ini bisa diisi dengan [SSD M.2][sm2slot] yang berbentuk chip panjang seperti RAM. SSD M.2 (SATA) cenderung lebih mahal daripada versi [regular 2.5"][sssdsata] karena bentuknya yang tipis. Buat kalian yang laptopnya punya slot M.2, sangat aku anjurkan untuk beli SSD varian M.2 dibandingkan varian SATA 2.5", kalo budgetnya tidak ada, bolehlah nabung-nabung sebentar.
 
 > Selain slot 2.5" SATA dan M.2 SATA, ada lagi slot [mSATA][smsata], hanya saja lebih jarang dijumpai. Intinya, semua slot tersebut mempunyai jenis koneksi yang sama, yakni SATA, dan nama kerennya untuk perbedaan jenis-jenis colokan SSD ini disebut [Form Factor][formfactor] dalam SSD.
 
@@ -74,7 +74,7 @@ Jadi apabila SSD DRAM menggunakan TLC sedangkan SSD tanpa DRAM menggunakan SLC, 
 
 Kenapa aku percaya demikian? karena Windows pasti mengandalkan kecepatan Random Read/Write, apalagi untuk keperluan Virtual Memori. Sedangkan untuk File Pribadi, kamu tak perlu random RW speed atau rasio TBW yang tinggi, justru kau membutuhkan SSD yang lebih durable, lebih terjangkau, berkapasitas besar, dan lebih hemat daya. Fitur-fitur itulah [hanya ada di SSD tanpa DRAM][dramlessuseful]. Lagipula, secara kecepatan Sequential Read/Write, kedua SSD sama cepatnya (sekitar **550 MB/s** atau **6 Gbit/s**).
 
-Bagaimana dengan SSD berkapasitas besar? Disinilah [teknologi 3D NAND][3dnand] unggul. 3D NAND menggunakan SLC (1 bit per cell) namun memanfaatkan tempat secara vertikal, alhasil harga-per-giga yang ditawarkan jauh lebih rendah daripada SSD mainstream lainnya. Beberapa SSD ber 3D NAND adalah [Samsung EVO][samsung], [WD Blue][wdblue] dan [Adata Ultimate][adata]. Jika kamu teliti, SSD 3D NAND cenderung mempunyai banyak storage (512 GB keatas), TBW yang tinggi (bergaransi 5 tahun), bahkan beberapa model dilengkapi dengan DRAM. Semua benefit tertentu mempunyai satu masalah yang serius, yaitu harganya pasti diatas 1 juta.
+Bagaimana dengan SSD berkapasitas besar? Disinilah [teknologi 3D NAND][3dnand] unggul. 3D NAND menggunakan SLC (1 bit per cell) namun memanfaatkan tempat secara vertikal, alhasil harga-per-giga yang ditawarkan jauh lebih rendah daripada SSD mainstream lainnya. Beberapa SSD ber 3D NAND adalah [Samsung EVO][samsung], [WD Blue][wdblue] dan [Adata Ultimate][adata]. Jika kamu teliti, SSD 3D NAND cenderung mempunyai banyak storage (512 GB keatas), TBW yang tinggi (bergaransi 5 tahun), bahkan beberapa model dilengkapi dengan DRAM. Semua benefit tersebut tentu mempunyai satu masalah yang serius, yaitu harganya pasti cukup mahal, diatas 1 juta.
 
 Terakhir, koneksi SATA mempunyai beberapa versi, yakni [SATA II dan SATA III][satav], SATA II mempunyai kecepatan setengah dari SATA III (yang mempunyai kecepatan maks **550 MB/s** atau **6 Gbit/s**), jadi apabila SSD mu mempunyai kecepatan [Sequential Read/Write][seqrand] masih sekitar 200 MB/s, kemungkinan itu karena kamu menaruh SSD mu ke Caddy / DVD-ROM (yang biasanya masih menggunakan SATA II), bukannya ke port SATA HDD; atau karena laptopmu merupakan generasi lama (namun kebanyakan laptop 2015 keatas sudah memakai SATA III pada colokan HDD-nya).
 
