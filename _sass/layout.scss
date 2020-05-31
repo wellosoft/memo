@@ -282,6 +282,12 @@ main {
   }
 }
 
+.post-image img {
+  width: 100%;
+  max-height: 200px;
+  object-fit: cover;
+  margin-bottom: 3em;
+}
 
 // header anchor links
 .header-link {

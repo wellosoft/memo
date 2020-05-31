@@ -5,6 +5,13 @@ layout: default
 
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
+
+    <div class="post-image">
+      {% capture defimg %}https://res.cloudinary.com/wellosoft/image/upload/c_scale,w_1280/v1564509091/home/MeBehindAlma.jpg{% endcapture %}
+      {% capture image %}{% if page.ig %}{{ page.ig | append: 'media/?size=l' }}{% else %}{{ defimg }}{% endif %}{% endcapture %}
+      <img src="{{ image }}" alt="Thumbnail"/>
+    </div>
+
     <header class="post-header">
       <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
       <p class="post-meta">
