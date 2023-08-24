@@ -116,9 +116,9 @@ Jadi bagaimana memilih prosesor yang baik? Tentu semakin mahal prosesor maka sem
 [tbwww]: https://www.embedded-computing.com/guest-blogs/an-introduction-to-tbw-terabytes-written
 [seqrand]: https://id.k2rx.com/how-check-analyse
 [satanvme]: https://www.dewaweb.com/blog/memahami-perbedaan-ssd-sata-dan-ssd-nvme/
-[smsata]: http://images.google.com/images?hl=en&q=msata
-[sm2slot]: http://images.google.com/images?hl=en&q=m.2+ssd
-[sssdsata]: http://images.google.com/images?hl=en&q=ssd+sata+2.5
+[smsata]: https://images.google.com/images?hl=en&q=msata
+[sm2slot]: https://images.google.com/images?hl=en&q=m.2+ssd
+[sssdsata]: https://images.google.com/images?hl=en&q=ssd+sata+2.5
 [satav]: https://www.murdockcruz.com/2018/03/09/mengenal-lebih-dekat-tentang-istilah-sata-dan-versinya/
 [atomdx10]: https://www.guru3d.com/news-story/intel-atom-cedarview-cpus-wont-support-directx-10-after-all.html
 [wddm2]: https://en.wikipedia.org/wiki/Windows_Display_Driver_Model#WDDM_2.0
@@ -126,7 +126,7 @@ Jadi bagaimana memilih prosesor yang baik? Tentu semakin mahal prosesor maka sem
 [changecore]: https://www.kaskus.co.id/thread/51f5b1e21acb17ab66000000/tanya--mengganti-processor-laptop-bisa-atau-tidak/
 [toomuch]: https://www.youtube.com/watch?v=1vaEBgceqdA
 [upup]: https://www.youtube.com/watch?v=AqXY0SjGcXQ
-[formfactor]: http://www.obengplus.com/articles/3524/1/SSD-Form-Factor-dan-istilah-dalam-SSD.html
+[formfactor]: https://www.obengplus.com/articles/3524/1/SSD-Form-Factor-dan-istilah-dalam-SSD.html
 [whatsdramless]: https://www.youtube.com/watch?v=ybIXsrLCgdM
 [flashmem]: https://www.youtube.com/watch?v=I9mbZUI0J3A
 [nands]: https://searchstorage.techtarget.com/answer/Comparing-SLC-SSD-with-DRAM-SSD-when-it-comes-to-IOPS
